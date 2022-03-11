@@ -6,14 +6,7 @@ canvas {
   left: 0;
 }
 
-video {
-  position: fixed;
-  right:0;
-  bottom:0;
-  min-width: 100%;
-  min-height: 100%;
-  z-index: -10;
-}
+
 
 :root {
   --dark-bg: rgba(15, 15, 15, 0.95);
